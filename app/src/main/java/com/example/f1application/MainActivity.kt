@@ -17,6 +17,8 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        Log.d("hii","World")
+        Log.d("hii", "World")
+        Log.d("hwlloe wo", "workdkkddf")
+
     }
 }
