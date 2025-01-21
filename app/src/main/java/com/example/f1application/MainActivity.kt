@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         }
         Log.d("hii", "World")
         Log.d("hwlloe wo", "workdkkddf")
+        Log.d("second branch","second commit")
 
     }
 }
