@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         Log.d("hii", "World")
-        Log.d("hwlloe wo", "workdkkd")
+        Log.d("hwlloe wo", "workdkkddf")
 
     }
 }
