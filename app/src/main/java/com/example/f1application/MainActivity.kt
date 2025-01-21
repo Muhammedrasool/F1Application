@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("hwlloe wo", "workdkkddf")
         Log.d("second branch","second commit")
         Log.d("ssizizioaoif","Third")
-        Log.d("fourth","fourth ")
+        Log.d("fourth","fourth d")
         Log.d("fourth","fourth ")
 
     }
